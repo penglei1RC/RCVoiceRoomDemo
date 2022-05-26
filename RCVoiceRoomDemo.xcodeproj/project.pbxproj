@@ -220,16 +220,8 @@
 				02BB3BCC2837964A000BBE8C /* Models */,
 				02BB3BA828377746000BBE8C /* RCVoiceRoomPCH.pch */,
 				02BB3BA728377699000BBE8C /* VRSDefine.h */,
-				02BB3BB52837826C000BBE8C /* Utils */,
 			);
 			path = Common;
-			sourceTree = "<group>";
-		};
-		02BB3BB52837826C000BBE8C /* Utils */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Utils;
 			sourceTree = "<group>";
 		};
 		02BB3BB62837829D000BBE8C /* Entry */ = {
