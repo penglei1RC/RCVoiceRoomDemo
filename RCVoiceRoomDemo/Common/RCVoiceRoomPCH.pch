@@ -1,0 +1,30 @@
+//
+//  RCVoiceRoomPCH.pch
+//  RCVoiceRoomDemo
+//
+//  Created by 彭蕾 on 2022/5/20.
+//
+
+#ifndef RCVoiceRoomPCH_pch
+#define RCVoiceRoomPCH_pch
+
+#import "VRSDefine.h"
+#import "RCResponseModel.h"
+#import "RoomModel.h"
+#import "UserModel.h"
+#import "UserManager.h"
+#import "StatusCode.h"
+#import "WebService.h"
+#import "WebService+PK.h"
+
+#import <RCVoiceRoomLib/RCVoiceRoomLib.h>
+#import <RongIMLib/RongIMLib.h>
+#import <SVProgressHUD/SVProgressHUD.h>
+#import <Masonry/Masonry.h>
+#import <AFNetworking/AFNetworking.h>
+#import <YYModel/YYModel.h>
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* RCVoiceRoomPCH_pch */
